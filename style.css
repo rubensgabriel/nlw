@@ -47,6 +47,7 @@ header {
   display: flex;
   gap: 16px;
   justify-content: center;
+  align-items: center;
   padding: 8px 16px;
   border: 1px solid #746615;
   border-radius: 6px;

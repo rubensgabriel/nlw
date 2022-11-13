@@ -32,4 +32,8 @@ O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
 
 Esse projeto está sob a licença MIT.
 
+## 🔗 Acesso ao projeto
+```
+https://rubensgabriel.github.io/streaming/
+```
 ---
